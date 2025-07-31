@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: TargetSoundRestore
+## Notes: Restores the default target change sound effects often lost when replacing the Blizzard Unit Frames
+## Version: 1.0
+## Author: phrxqt
+
+TargetSoundRestore.lua

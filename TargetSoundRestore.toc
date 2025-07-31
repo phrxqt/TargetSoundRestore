@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: TargetSoundRestore
-## Notes: Restores the default target change sound effects often lost when replacing the Blizzard Unit Frames
+## Notes: Restores target change sounds lost when replacing Blizzard's unit frames in Vanilla WoW
 ## Version: 1.0
 ## Author: phrxqt
 

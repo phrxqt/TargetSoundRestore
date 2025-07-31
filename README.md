@@ -14,15 +14,17 @@
 
 ### Manual installation
 
-1. Download or clone this repository.
-2. Place the `TargetSoundRestore` folder into your Turtle WoW `/Interface/AddOns` directory.
+1. [Download the latest version.](https://github.com/phrxqt/TargetSoundRestore/releases/latest)
+2. Place the `TargetSoundRestore` folder into your WoW's `/Interface/AddOns` directory.
 3. Launch WoW and make sure the addon is enabled in the AddOns menu.
 
-### Automatic installation
+### Automatic installation for Turtle WoW
 
-You can also install this addon directly through Turtle WoW's addon manager by pasting this GitHub repository URL:
+Turtle WoW Launcher can easily install the addon and automatically check for updates on launch.
 
-https://github.com/phrxqt/TargetSoundRestore
+Open **Turtle WoW Launcher** > **Addons** tab > **+Add new addon** > paste this GitHub repository URL:
+
+`https://github.com/phrxqt/TargetSoundRestore`
 
 
 ## Usage
